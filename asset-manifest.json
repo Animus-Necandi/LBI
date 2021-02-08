@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/LBI/Accueil/static/css/main.6978b7bb.chunk.css",
-    "main.js": "/LBI/Accueil/static/js/main.2ac3e7a3.chunk.js",
-    "main.js.map": "/LBI/Accueil/static/js/main.2ac3e7a3.chunk.js.map",
-    "runtime-main.js": "/LBI/Accueil/static/js/runtime-main.ed0b7aad.js",
-    "runtime-main.js.map": "/LBI/Accueil/static/js/runtime-main.ed0b7aad.js.map",
-    "static/css/2.150d169a.chunk.css": "/LBI/Accueil/static/css/2.150d169a.chunk.css",
-    "static/js/2.91dc851a.chunk.js": "/LBI/Accueil/static/js/2.91dc851a.chunk.js",
-    "static/js/2.91dc851a.chunk.js.map": "/LBI/Accueil/static/js/2.91dc851a.chunk.js.map",
-    "static/js/3.b8bf882e.chunk.js": "/LBI/Accueil/static/js/3.b8bf882e.chunk.js",
-    "static/js/3.b8bf882e.chunk.js.map": "/LBI/Accueil/static/js/3.b8bf882e.chunk.js.map",
-    "index.html": "/LBI/Accueil/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/LBI/Accueil/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.6978b7bb.chunk.css.map": "/LBI/Accueil/static/css/main.6978b7bb.chunk.css.map",
-    "static/js/2.91dc851a.chunk.js.LICENSE.txt": "/LBI/Accueil/static/js/2.91dc851a.chunk.js.LICENSE.txt",
-    "static/media/left.cf978e37.jfif": "/LBI/Accueil/static/media/left.cf978e37.jfif",
-    "static/media/right.31c6c86d.jfif": "/LBI/Accueil/static/media/right.31c6c86d.jfif",
-    "static/media/right1.e98b977b.jfif": "/LBI/Accueil/static/media/right1.e98b977b.jfif",
-    "static/media/right3.59d26ebf.jfif": "/LBI/Accueil/static/media/right3.59d26ebf.jfif"
+    "main.css": "/LBI/la-bonne-info/static/css/main.6978b7bb.chunk.css",
+    "main.js": "/LBI/la-bonne-info/static/js/main.3a6552bc.chunk.js",
+    "main.js.map": "/LBI/la-bonne-info/static/js/main.3a6552bc.chunk.js.map",
+    "runtime-main.js": "/LBI/la-bonne-info/static/js/runtime-main.9e5425f0.js",
+    "runtime-main.js.map": "/LBI/la-bonne-info/static/js/runtime-main.9e5425f0.js.map",
+    "static/css/2.150d169a.chunk.css": "/LBI/la-bonne-info/static/css/2.150d169a.chunk.css",
+    "static/js/2.91dc851a.chunk.js": "/LBI/la-bonne-info/static/js/2.91dc851a.chunk.js",
+    "static/js/2.91dc851a.chunk.js.map": "/LBI/la-bonne-info/static/js/2.91dc851a.chunk.js.map",
+    "static/js/3.b8bf882e.chunk.js": "/LBI/la-bonne-info/static/js/3.b8bf882e.chunk.js",
+    "static/js/3.b8bf882e.chunk.js.map": "/LBI/la-bonne-info/static/js/3.b8bf882e.chunk.js.map",
+    "index.html": "/LBI/la-bonne-info/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/LBI/la-bonne-info/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6978b7bb.chunk.css.map": "/LBI/la-bonne-info/static/css/main.6978b7bb.chunk.css.map",
+    "static/js/2.91dc851a.chunk.js.LICENSE.txt": "/LBI/la-bonne-info/static/js/2.91dc851a.chunk.js.LICENSE.txt",
+    "static/media/left.cf978e37.jfif": "/LBI/la-bonne-info/static/media/left.cf978e37.jfif",
+    "static/media/right.31c6c86d.jfif": "/LBI/la-bonne-info/static/media/right.31c6c86d.jfif",
+    "static/media/right1.e98b977b.jfif": "/LBI/la-bonne-info/static/media/right1.e98b977b.jfif",
+    "static/media/right3.59d26ebf.jfif": "/LBI/la-bonne-info/static/media/right3.59d26ebf.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed0b7aad.js",
+    "static/js/runtime-main.9e5425f0.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.91dc851a.chunk.js",
     "static/css/main.6978b7bb.chunk.css",
-    "static/js/main.2ac3e7a3.chunk.js"
+    "static/js/main.3a6552bc.chunk.js"
   ]
 }
